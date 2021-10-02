@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+scikit
+
+
+how do i get the data files and image files into here?

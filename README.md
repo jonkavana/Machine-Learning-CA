@@ -1,9 +1,29 @@
 
+### Prefered Viewing
 
+You can review the best quality rendering for this submission via:
+https://nbviewer.jupyter.org/
+
+needs to be updated with the URL after submitting the gitgun link into NBViewer
+there is also an image that we can use for the badge, to make this url more UX friendly
+
+
+### How to run this notebook
+
+need to have:
+-anaconda
+cmder
+VSCode
+run jupyter lab
+requirements.txt file 
 
 ### Research 
 
 https://www.python.org/dev/peps/pep-0008/
+https://jupyter.org/documentation
+https://nbviewer.jupyter.org/
+https://nbviewer.jupyter.org/gist/rpmuller/5920182
+https://mybinder.org/
 
 #### Bibliography
 
