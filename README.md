@@ -24,6 +24,9 @@ https://jupyter.org/documentation
 https://nbviewer.jupyter.org/
 https://nbviewer.jupyter.org/gist/rpmuller/5920182
 https://mybinder.org/
+https://scikit-learn.org/stable/tutorial/index.html
+https://www.kaggle.com/learn/pandas
+https://realpython.com/numpy-tutorial/
 
 #### Bibliography
 
