@@ -8,14 +8,20 @@ needs to be updated with the URL after submitting the gitgun link into NBViewer
 there is also an image that we can use for the badge, to make this url more UX friendly
 
 
-### How to run this notebook
+### Purpose
+
+
+### Items
+
+
+### Instructions
 
 need to have:
--anaconda
-cmder
-VSCode
-run jupyter lab
-requirements.txt file 
+- anaconda
+- cmder
+- VSCode
+- jupyter lab
+- requirements.txt file 
 
 ### Research 
 
@@ -34,3 +40,4 @@ https://scikit-learn.org/stable/index.html
 https://www.python.org/dev/peps/pep-0008/
 https://guides.github.com/features/mastering-markdown/
 https://fivethirtyeight.com/
+https://www.markdownguide.org/basic-syntax/
