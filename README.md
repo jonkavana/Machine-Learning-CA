@@ -1,4 +1,3 @@
-
 ### Prefered Viewing
 
 You can review the best quality rendering for this submission via:
@@ -10,11 +9,9 @@ there is also an image that we can use for the badge, to make this url more UX f
 
 ### Purpose
 
+The purpose of this readme file is to enable the reader to be able to discoer the use of bot the SciKit & SciPy packages being used in the Python language. 
 
 ### Items
-
-
-### Instructions
 
 need to have:
 - anaconda
@@ -22,6 +19,11 @@ need to have:
 - VSCode
 - jupyter lab
 - requirements.txt file 
+
+
+### Instructions
+
+
 
 ### Research 
 
