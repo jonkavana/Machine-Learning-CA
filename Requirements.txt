@@ -1,7 +1,9 @@
-numpy
-matplotlib
-scipy
-scikit
+- anaconda
+- cmder
+- VSCode
+- jupyter lab
+- scipy
+- sckitlearn
 
 
 how do i get the data files and image files into here?
