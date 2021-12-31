@@ -3,7 +3,10 @@
 - VSCode
 - jupyter lab
 - scipy
+- scipy.stats
 - sckitlearn
-
+- numpy
+- pandas
+- matplotlib
 
 how do i get the data files and image files into here?
