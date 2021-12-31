@@ -103,3 +103,4 @@ https://reneshbedre.github.io/blog/howtoinstall.html, retrieved on 31/12/21 <br>
 https://www.ibm.com/docs/en/spss-statistics/24.0.0?topic=variables-level-measurement, retrieved on 31/12/21 <br>
 https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php, retrieved on 31/12/21 <br>
 https://realpython.com/python-statistics/, retrieved on 31/12/21 <br>
+https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/anova/how-to/one-way-anova/interpret-the-results/all-statistics-and-graphs/, retrieved on 31/12/21 <br>
