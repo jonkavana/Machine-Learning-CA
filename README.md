@@ -10,12 +10,21 @@ The comparisons and contrasts between each library will be displayed in each set
 In order to run these notebooks, an installataion guideline has been detailed as well as line by line instructions per notebook. If there are any additional technical requirements that are met whilst running these notebooks, a comprehensive list of support has also been detailed. 
 
 ### Qucick Links
+If you want to view the notebook via nbviewer:
 
 To view the SciPy notebooks, please click this link:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jonkavana/Machine-Learning-CA/blob/main/scipy-stats.ipynb)
 
 To view the SciKit notebooks, please click this link:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jonkavana/Machine-Learning-CA/blob/main/scikit-Learn.ipynb)
+
+If you want to view the notebook via Binder:
+
+To view the SciPy notebooks, please click this link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonkavana/Machine-Learning-CA/blob/main/scipy-stats.ipynb/HEAD)
+
+To view the SciKit notebooks, please click this link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonkavana/Machine-Learning-CA/blob/main/scikit-Learn.ipynb/HEAD)
 
 ### Installation
 
