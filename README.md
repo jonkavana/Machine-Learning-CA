@@ -9,6 +9,19 @@ The comparisons and contrasts between each library will be displayed in each set
 
 In order to run these notebooks, an installataion guideline has been detailed as well as line by line instructions per notebook. If there are any additional technical requirements that are met whilst running these notebooks, a comprehensive list of support has also been detailed. 
 
+### Qucick Links
+
+To view the SciPy notebooks, please click this link:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+
+To view the SciKit notebooks, please click this link:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+
+
+if doesn't work, amend this link: 
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
+
 ### Installation
 
 need to have:
