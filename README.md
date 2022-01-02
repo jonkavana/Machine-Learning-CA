@@ -1,15 +1,15 @@
 ### Title 
 
-Machine Learning & Statistics Module: Scipy & SckiKit Learn Project 2021
+Machine Learning & Statistics Module: SciPy & SciKit Learn Project 2021
 
 ### Description
 The purpose of this project is to exemplify the properties of both the SciPy & SciKit-Learn libraries which can be leveraged in the Python Programming Language. 
 There is a required set of points that need to be displayed in these notebooks, such as the overall structure of the libraries and how they are to be called in the command line. 
 The comparisons and contrasts between each library will be displayed in each set of notebooks, but the overall goal is the same. Being able to display  specific components of each module, explain how they work and lastly, be able to display to the reader what each component achieves.
 
-In order to run these notebooks, an installataion guideline has been detailed as well as line by line instructions per notebook. If there are any additional technical requirements that are met whilst running these notebooks, a comprehensive list of support has also been detailed. 
+To run these notebooks, an installation guideline has been detailed as well as line by line instructions per notebook. If there are any additional technical requirements that are met whilst running these notebooks, a comprehensive list of support has also been detailed. 
 
-### Qucick Links
+### Quick Links
 If you want to view the notebook via nbviewer:
 
 To view the SciPy notebooks, please click this link:
@@ -38,9 +38,9 @@ need to have:
 
 ### Instructions
 The running order for reading these notebooks is not important, in that there is no direct linkage or dependency between. They have been created independently whilst being conscious of their similarities.
-To run both of these notebooks, they can be run in the same manner. If you are viewing this document on github, you can clone down the repository as it has been made publicly available. 
-Open your terminal on where you would like to run the notebooks. Using gitclone commmand followed by the specifi URL for this repository, press enter to run the code. 
-Once the repository has been downloaded you can view both of the notebooks using Jupyter. Simply entering Jupyter lab once you are this repository will allow the user to read from a browser. Chrome & FIrefox have been used throughout the development of these notebooks to ensure they read/run correctly. 
+To run both notebooks, they can be run in the same manner. If you are viewing this document on GitHub, you can clone down the repository as it has been made publicly available. 
+Open your terminal on where you would like to run the notebooks. Using gitclone command followed by the specific URL for this repository, press enter to run the code. 
+Once the repository has been downloaded you can view both notebooks using Jupyter. Simply entering Jupyter lab once you are this repository will allow the user to read from a browser. Chrome & Firefox have been used throughout the development of these notebooks to ensure they read/run correctly. 
 
 1. SciPy Notebook: scipy-stats.ipynb
 
@@ -53,7 +53,7 @@ The sections to follow are all laid in the structure of the official site for th
 Descriptive statistics have been laid out at the front to provide ease of readability and to ease the reader into the notebook. From that point, we move into the Probability distribution setting of the library, ensuring that there is an example and visual representative where possible of each distribution type. 
 
 Next Steps & future Development: 
-Whilst I made the decision to focus on the area of Statistics, i thnk that in any future developments it owuld be beneficial to look in the areas of optimisation because of the overlap into statistics. Otherwise, i think the next area to become more familiar with is the area of linear algebra because it develops on the numpy package which i have a good working knowledge on at this stage. 
+Whilst I made the decision to focus on the area of Statistics, i think that in any future developments it would be beneficial to look in the areas of optimisation because of the overlap into statistics. Otherwise, i think the next area to become more familiar with is the area of linear algebra because it develops on the NumPy package which i have a good working knowledge on at this stage. 
 
 2. SciKit Learn Notebook: scikit-Learn.ipynb
 
@@ -65,7 +65,8 @@ The sections to follow are all laid in the structure of the official site for th
 
 
 Next Steps & future Development: 
-Whilst I made the decision early on to focus on the area of Regression, i am conscious of the fact that there are so many other areas that could have been analysed. I think that in future endevours i would like to research and devlop on other areas of machine learning suhc as Classification.
+Whilst I made the decision early on to focus on the area of Regression, i am conscious of the fact that there are so many other areas that could have been analysed. I think that in future endeavours i would like to research and develop on other areas of machine learning such as Classification.
+
 
 ### Research & Support
 
