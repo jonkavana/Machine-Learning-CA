@@ -67,41 +67,46 @@ https://www.python.org/dev/peps/pep-0008/
 https://guides.github.com/features/mastering-markdown/
 https://fivethirtyeight.com/
 https://www.markdownguide.org/basic-syntax/
-https://www.w3schools.com/python/scipy/scipy_intro.php, retrieved on 22/12/21 <br>
-https://scipy.github.io/devdocs/tutorial/general.html, retrieved on 22/12/21 <br>
-https://scipy.github.io/devdocs/reference/cluster.html#module-scipy.cluster, retrieved on 22/12/21 <br>
-https://scipy.github.io/devdocs/reference/io.html#module-scipy.io, retrieved on 22/12/21 <br>
-https://scipy.github.io/devdocs/reference/integrate.html#module-scipy.integrate, retrieved on 22/12/21 <br>
-https://scipy.github.io/devdocs/reference/stats.html#module-scipy.stats, retrieved on 22/12/21 <br>
-https://docs.scipy.org/doc/scipy/reference/stats.html, retrieved on 27/12/21 <br>
-https://anaconda.org/anaconda/scipy, retrieved on 27/12/21 <br>
-https://scipy.org/install/, retrieved on 27/12/21 <br>
-https://www.w3schools.com/python/scipy/scipy_constants.php, retrieved on 27/12/21 <br>
-https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html, retrieved on 27/12/21 <br>
-https://www.tutorialspoint.com/scipy/scipy_stats.htm, retrieved on 27/12/21 <br>
-https://www.youtube.com/watch?v=POX2mNWvb8Y, retrieved on 27/12/21 <br>
-https://oneau.wordpress.com/2011/02/28/simple-statistics-with-scipy/, retrieved on 27/12/21 <br>
-https://www.sciencedirect.com/topics/mathematics/dirichlet-distribution, retrieved on 27/12/21 <br>
-https://scipy.github.io/devdocs/reference/generated/scipy.stats.dirichlet.html#scipy.stats.dirichlet, retrieved on 27/12/21 <br>
-https://scipy.github.io/devdocs/reference/generated/scipy.stats.binom.html#scipy.stats.binom, retrieved on 27/12/21 <br>
-https://www.statisticshowto.com/dirichlet-distribution, retrieved on 27/12/21 <br>
-https://www.statisticshowto.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/, retrieved on 27/12/21 <br>
-https://scipy.github.io/devdocs/reference/generated/scipy.stats.binom.html#scipy.stats.binom, retrieved on 27/12/21 <br>
-https://online.stat.psu.edu/stat800/book/export/html/658, retrieved on 27/12/21 <br>
-https://www.datacamp.com/community/tutorials/probability-distributions-python, retrieved on 28/12/21 <br>
-https://www.qualtrics.com/uk/experience-management/research/anova/, retrieved on 31/12/21 <br>
-https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php, retrieved on 31/12/21 <br>
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.levene.html, retrieved on 31/12/21 <br>
-https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553, retrieved on 31/12/21 <br>
-https://agriliferesearch.tamu.edu/research-priorities/insect-vectored-diseases/, retrieved on 31/12/21 <br>
-https://agriliferesearch.tamu.edu/, retrieved on 31/12/21 <br>
-https://www.reneshbedre.com/about/, retrieved on 31/12/21 <br>
-https://reneshbedre.github.io/, retrieved on 31/12/21 <br>
-https://www.reneshbedre.com/blog/anova.html, retrieved on 31/12/21 <br>
-https://anaconda.org/bioconda/bioinfokit, retrieved on 31/12/21 <br>
-https://reneshbedre.github.io/blog/howtoinstall.html, retrieved on 31/12/21 <br>
-https://www.ibm.com/docs/en/spss-statistics/24.0.0?topic=variables-level-measurement, retrieved on 31/12/21 <br>
-https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php, retrieved on 31/12/21 <br>
-https://realpython.com/python-statistics/, retrieved on 31/12/21 <br>
-https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/anova/how-to/one-way-anova/interpret-the-results/all-statistics-and-graphs/, retrieved on 31/12/21 <br>
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns, retrieved on 31/12/21 <br>
+
+SciKitLearn
+https://www.markdownguide.org/basic-syntax/, retrieved on 30/10/21 <br>
+https://newbedev.com/shortcut-key-for-changing-code-cell-to-markdown-cell-in-jupyter-notebook,  retrieved on 30/10/21<br>
+https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/, retrieved on 30/10/21<br>
+https://www.codecademy.com/articles/scikit-learn,  retrieved on 30/10/21<br>
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html, retrieved on 21/11/21 </br>
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/datasets/toy_dataset.html,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/datasets/loading_other_datasets.html#external-datasets, retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-download-auto-examples-linear-model-plot-ols-py,  retrieved on 21/12/21 </br> 
+https://scikit-learn.org/stable/auto_examples/index.html#general-examples ,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/tutorial/index.html#tutorial-menu,  retrieved on 21/12/21 </br>
+https://python.plainenglish.io/ols-linear-regression-basics-with-pythons-scikit-learn-4ecfe88145b,  retrieved on 21/12/21 </br>
+https://www.activestate.com/resources/quick-reads/what-is-scikit-learn-in-python/,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#classification,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#examples,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#cluster-examples,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#model-selection,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#preprocessing,  retrieved on 21/12/21 </br>
+https://scikit-learn.org/stable/auto_examples/index.html#decomposition-examples,  retrieved on 21/12/21 </br>
+https://realpython.com/linear-regression-in-python/,  retrieved on 21/12/21 </br>
+https://www.kaggle.com/learn/pandas,  retrieved on 21/12/21 </br>
+https://realpython.com/numpy-tutorial/,  retrieved on 21/12/21 </br>
+https://www.w3schools.com/python/matplotlib_intro.asp,  retrieved on 21/12/21 </br>
+https://hbr.org/2015/11/a-refresher-on-regression-analysis,  retrieved on 22/12/21 </br>
+https://scikit-learn.org/stable/modules/linear_model.html,  retrieved on 22/12/21 </br>
+https://towardsdatascience.com/stop-using-numpy-random-seed-581a9972805f,  retrieved on 22/12/21 </br>
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html?highlight=seed#numpy.random.seed,  retrieved on 22/12/21 </br>
+https://www.w3schools.com/python/matplotlib_labels.asp,  retrieved on 22/12/21 </br>
+https://towardsdatascience.com/7-points-to-use-matplotlib-more-efficiently-53a1b318b8b1,  retrieved on 22/12/21 </br>
+https://scikit-learn.org/stable/modules/linear_model.html,  retrieved on 28/12/21 </br>
+https://riptutorial.com/scikit-learn/example/18378/ordinary-least-squares,  retrieved on 28/12/21 </br>
+https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda,  retrieved on 02/01/22 </br>
+https://gdcoder.com/decision-tree-regressor-explained-in-depth/,  retrieved on 02/01/22 </br>
+https://scikit-learn.org/stable/modules/linear_model.html#least-angle-regression,  retrieved on 02/01/22 </br>
+https://www.geeksforgeeks.org/least-angle-regression-lars/,  retrieved on 02/01/22 </br>
+https://machinelearningmastery.com/lars-regression-with-python/,  retrieved on 02/01/22 </br>
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html,  retrieved on 02/01/22 </br>
+https://www.vernier.com/til/1014,  retrieved on 02/01/22 </br>
+https://www.datatechnotes.com/2019/11/least-angle-regression-example-in-python.html,  retrieved on 02/01/22 </br>
