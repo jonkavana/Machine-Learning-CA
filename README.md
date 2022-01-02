@@ -12,15 +12,10 @@ In order to run these notebooks, an installataion guideline has been detailed as
 ### Qucick Links
 
 To view the SciPy notebooks, please click this link:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jonkavana/Machine-Learning-CA/blob/main/scipy-stats.ipynb)
 
 To view the SciKit notebooks, please click this link:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
-
-
-if doesn't work, amend this link: 
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jonkavana/Machine-Learning-CA/blob/main/scikit-Learn.ipynb)
 
 ### Installation
 
